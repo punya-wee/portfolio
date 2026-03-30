@@ -17,7 +17,7 @@ This repository contains my assignments, labs, projects, and certificates relate
 | Assignment 2 (Topology) | [Topology](https://docs.google.com/document/d/1EVvAw_xkXb7NcO_gBhbqTCaqqI7znPnDh60bwnd7BBo/edit?usp=sharing) | [📥 Download PDF](assigment/Assigment%202%20.pdf) |
 | Assignment 3 (Not Simple) | [Not Simple](https://drive.google.com/file/d/1x3xpGnW0OC85NDobfxla0hPvNnjJvVlt/view?usp=sharing) | [📥 Download File](assigment/Assignment%203%20673380282-8.pkt) |
 | Assignment 4 (TCP-UDP) | [TCP-UDP](https://docs.google.com/document/d/1f6hBpcO2UgEt9PtEQTZJPv-5y7_1HtyZHlE0eCQpnVI/edit?usp=sharing) | [📥 Download PDF](assigment/assignment%204.pdf) | 
-| Assignment 5 (LAB 5) | [LAB5]([https://docs.google.com/document/d/1f6hBpcO2UgEt9PtEQTZJPv-5y7_1HtyZHlE0eCQpnVI/edit?usp=sharing](https://docs.google.com/document/d/18P-69e-v0Vl5F4RUUn4yM5mTlqU3c637OWR61Wvkv2M/edit?tab=t.0)) | [📥 Download PDF](assigment/assignment%204.pdf) | 
+| Assignment 5 (LAB 5) | [LAB5]([https://docs.google.com/document/d/1f6hBpcO2UgEt9PtEQTZJPv-5y7_1HtyZHlE0eCQpnVI/edit?usp=sharing](https://docs.google.com/document/d/18P-69e-v0Vl5F4RUUn4yM5mTlqU3c637OWR61Wvkv2M/edit?tab=t.0)) | [📥 Download PDF](assigment/Lab%205.pdf) | 
 ---
 
 ## 🧪 Labs 1–5
